@@ -1,2 +1,3 @@
-# ML-PR
-Material and labs from this semester for Machine learning and Pattern recognition class
+# Machine Learning and Pattern Recognition 
+
+This repo contains all the labs done for the course "Machine Learning & Pattern Recognition" in BUiD. 
